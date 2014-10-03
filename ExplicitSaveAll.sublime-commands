@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "ExplicitSaveAll: Save all",
+    "command": "explicit_save_all"
+  }
+]

@@ -1,0 +1,6 @@
+[
+  {
+    "keys": ["ctrl+alt+shift+s"],
+    "command": "explicit_save_all"
+  }
+]

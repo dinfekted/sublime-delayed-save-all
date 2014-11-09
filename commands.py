@@ -1,7 +1,7 @@
 import sublime
 import sublime_plugin
 
-class ExplicitSaveAll(sublime_plugin.TextCommand):
+class DelayedSaveAll(sublime_plugin.TextCommand):
   def __init__(self, view):
     super().__init__(view)
     self.timeout = 300

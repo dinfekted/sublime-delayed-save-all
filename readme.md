@@ -1,4 +1,4 @@
-# ExplicitSaveAll
+# Sublime DelayedSaveAll plugin
 
 Save all files one by one with 0.3s interval between saving. It is handy when
 you have handlers that watch file saving and they need a time to do stuff
@@ -8,7 +8,7 @@ chains.
 
 ### Demo
 
-![Demo](https://raw.github.com/shagabutdinov/sublime-explicit-save-all/master/demo/demo.gif "Demo")
+![Demo](https://github.com/shagabutdinov/sublime-enhanced-demos/raw/master/explicit_save_all.gif "Demo")
 
 ### Installation
 
@@ -24,8 +24,14 @@ separately" section of [sublime-enhanced](http://github.com/shagabutdinov
 
 Hit keyboard shortcut listed below to save files one by one.
 
+
 ### Commands
 
-| Description         | Keyboard shortcuts | Command palette           |
-|---------------------|--------------------|---------------------------|
-| Save all one by one | ctrl+alt+shift+s   | ExplicitSaveAll: save all |
+| Description         | Keyboard shortcuts | Command palette          |
+|---------------------|--------------------|--------------------------|
+| Save all one by one | ctrl+u, b          | DelayedSaveAll: save all |
+
+
+### Dependencies
+
+None

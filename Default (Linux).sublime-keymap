@@ -1,6 +1,9 @@
 [
   {
-    "keys": ["ctrl+alt+shift+s"],
-    "command": "explicit_save_all"
+    "keys": ["ctrl+u", "b"],
+    "command": "explicit_save_all",
+    "context": [
+      {"key": "setting.sublime_enhanced_keybindings", "operator": "equal", "operand": true},
+    ]
   }
 ]

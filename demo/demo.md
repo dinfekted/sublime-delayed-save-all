@@ -1,3 +1,3 @@
-# Demo of ExplicitSaveAll
+# Demo of DelayedSaveAll
 
-Done.
+Changed files will be saved one by one.

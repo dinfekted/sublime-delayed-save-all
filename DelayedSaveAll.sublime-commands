@@ -1,0 +1,6 @@
+[
+  {
+    "caption": "DealyedSaveAll: Save all",
+    "command": "delayed_save_all"
+  }
+]
